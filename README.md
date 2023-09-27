@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Email: lakasabasz@gmail.com
-  Discord: Łakasabasz#6425
+  Discord: lakasabasz
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
